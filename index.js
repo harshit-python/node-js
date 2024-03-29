@@ -1,1 +1,2 @@
-console.log("Hello, world");
+const harsh = require("./second");
+console.log("Hello, world", harsh);

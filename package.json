@@ -1,0 +1,23 @@
+{
+  "name": "first_node_package",
+  "version": "1.0.0",
+  "description": "this is the first node package developed by me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://harshit-python: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@github.com/harshit-python/node-js.git"
+  },
+  "author": "harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshit-python/node-js/issues"
+  },
+  "homepage": "https://github.com/harshit-python/node-js#readme",
+  "dependencies": {
+    "@angular/cli": "^17.3.2",
+    "express": "^4.19.2"
+  }
+}
